@@ -224,7 +224,7 @@ jobs:
                 "custom_tags": {
                   "environment": "production",
                   "team": "data-engineering"
-                },          
+                }
               }
             }
           ],
